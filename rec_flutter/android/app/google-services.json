@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "285957039598",
+    "project_id": "recommendation-d5443",
+    "storage_bucket": "recommendation-d5443.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285957039598:android:dd184ec9feaab750d79aff",
+        "android_client_info": {
+          "package_name": "com.rec.flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285957039598-ff38s4d28ifaoeqvae4n2g2hmorul9u3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPd6yceHMpuDssZsUWpgQqlXnXdCdmp7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285957039598-ff38s4d28ifaoeqvae4n2g2hmorul9u3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "285957039598-etgas21nmmqueva8ur9fgiufm337gt2v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.recommendation.recFlutter"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285957039598:android:3f7fb211e8e72f1cd79aff",
+        "android_client_info": {
+          "package_name": "com.recommendation.rec_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285957039598-ff38s4d28ifaoeqvae4n2g2hmorul9u3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPd6yceHMpuDssZsUWpgQqlXnXdCdmp7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285957039598-ff38s4d28ifaoeqvae4n2g2hmorul9u3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "285957039598-etgas21nmmqueva8ur9fgiufm337gt2v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.recommendation.recFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
